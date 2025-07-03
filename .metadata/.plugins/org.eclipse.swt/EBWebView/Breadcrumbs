@@ -1,0 +1,90 @@
+4:25:04 Tab9 FinishNav65
+4:25:04 Tab9 PageLoad
+4:25:05 Tab9 StartNav66 #typed
+4:25:05 Tab9 FinishNav66
+4:25:05 Tab9 PageLoad
+4:25:08 Microsoft.Shutdown.OnWindowClosing
+4:25:08 Microsoft.Shutdown.OnWindowClosing_MaybeClearBrowsingDataOnExit
+4:25:08 Microsoft.Shutdown.OnWindowClosing_ClearBrowsingDataOnExitNotInProgress
+4:25:08 Microsoft.Shutdown.OnWindowClosingPostClearBrowsingData_NoBrowsingDataCleared
+4:25:08 Microsoft.Shutdown.TabStripModel.CloseAllTabs
+4:25:08 Microsoft.Shutdown.TabStripModel.CloseTabs
+4:25:08 Microsoft.Shutdown.TabStripModel.CloseTabs_EdgeBeforeClosingAllTabs
+4:25:08 Microsoft.Shutdown.TabStripModel.InternalCloseTabsImpl
+4:25:08 Microsoft.Shutdown.TabStripModel.InternalCloseTabsImpl_TabClosable
+4:25:08 Microsoft.Shutdown.TabStripModel.InternalCloseTabsImpl_ClosingAll
+4:25:08 Microsoft.Shutdown.TabStripModel.CloseWebContentses
+4:25:08 Microsoft.Shutdown.TabStripModel.CloseWebContentses_FastShutdown
+4:25:08 Microsoft.Shutdown.TabStripModel.ShouldRunUnloadListenerBeforeClosing_false
+4:25:08 Tab9 RenderProcessGone
+4:25:08 Microsoft.Shutdown.TabStripModel.RunUnloadListenerBeforeClosing_false
+4:25:08 Microsoft.Shutdown.TabStripModel.InternalCloseTabsImpl_ClosedAll
+4:25:08 Microsoft.Shutdown.TabStripModel.SendDetachWebContentsNotifications
+4:25:08 Browser9 Close Tab9 at 0
+4:25:08 Tab9 WebContentsDestroyed
+4:25:08 Microsoft.Shutdown.OnWindowClosing
+4:25:08 Microsoft.Shutdown.OnWindowClosingPostClearBrowsingData_NoBrowsingDataCleared
+4:25:08 Widget Closed: BrowserFrame
+4:25:08 Microsoft.Shutdown.OnWindowClosing
+4:25:08 Microsoft.Shutdown.OnWindowClosingPostClearBrowsingData_NoBrowsingDataCleared
+4:25:08 Microsoft.Browser_Removed
+5:52:03 Memory Pressure: Moderate
+5:52:13 Memory Pressure: Moderate
+5:52:28 Memory Pressure: Moderate
+5:52:38 Memory Pressure: Moderate
+5:56:18 Memory Pressure: Moderate
+5:56:28 Memory Pressure: Moderate
+5:57:51 Microsoft.NewBrowser_Popup
+5:57:51 Microsoft.BrowserList.AddBrowser
+5:57:51 Browser10 Insert active Tab10 at 0
+5:57:51 Tab10 StartNav67 #auto_toplevel
+5:57:51 Tab10 StartNav68 #typed
+5:57:52 Tab10 StartNav69 #typed
+5:57:52 Tab10 FinishNav67
+5:57:52 Tab10 PageLoad
+5:57:52 Tab10 FinishNav68
+5:57:52 Tab10 PageLoad
+5:57:52 Tab10 FinishNav69
+5:57:52 Tab10 PageLoad
+5:57:57 Tab10 StartNav70 #typed
+5:57:57 Tab10 FinishNav70
+5:57:58 Tab10 PageLoad
+5:58:05 Tab10 StartNav71 #typed
+5:58:05 Tab10 FinishNav71
+5:58:05 Tab10 PageLoad
+5:58:08 Tab10 StartNav72 #typed
+5:58:08 Tab10 FinishNav72
+5:58:08 Tab10 PageLoad
+5:58:30 Tab10 StartNav73 #typed
+5:58:30 Tab10 FinishNav73
+5:58:30 Tab10 PageLoad
+5:58:59 Memory Pressure: Moderate
+5:58:59 Tab10 StartNav74 #typed
+5:58:59 Tab10 FinishNav74
+5:58:59 Tab10 PageLoad
+5:59:06 Tab10 StartNav75 #typed
+5:59:06 Tab10 FinishNav75
+5:59:06 Tab10 PageLoad
+5:59:10 Tab10 StartNav76 #typed
+5:59:10 Tab10 FinishNav76
+5:59:10 Tab10 PageLoad
+5:59:12 Tab10 StartNav77 #typed
+5:59:12 Tab10 FinishNav77
+5:59:12 Tab10 PageLoad
+5:59:25 Tab10 StartNav78 #typed
+5:59:25 Tab10 FinishNav78
+5:59:25 Tab10 PageLoad
+5:59:26 Tab10 StartNav79 #typed
+5:59:26 Tab10 FinishNav79
+5:59:26 Tab10 PageLoad
+5:59:29 Tab10 StartNav80 #typed
+5:59:29 Tab10 FinishNav80
+5:59:29 Tab10 PageLoad
+6:07:14 Memory Pressure: Moderate
+6:07:24 Memory Pressure: Moderate
+6:07:34 Memory Pressure: Moderate
+6:07:44 Memory Pressure: Moderate
+6:07:54 Memory Pressure: Moderate
+6:08:04 Memory Pressure: Moderate
+6:14:05 Memory Pressure: Moderate
+6:14:15 Memory Pressure: Moderate
