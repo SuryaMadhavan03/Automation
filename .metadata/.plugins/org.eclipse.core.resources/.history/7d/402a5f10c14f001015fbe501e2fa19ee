@@ -1,9 +1,0 @@
-package Selenium;
-
-public class Dropdown {
-	
-	public static void main(String[] args) {
-		Chromedriver driver = new Chromedriver();
-		
-	}
-}

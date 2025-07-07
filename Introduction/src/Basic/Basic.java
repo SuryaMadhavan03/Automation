@@ -19,9 +19,9 @@ public class Basic {
 		else {
 			System.out.println("Test case fail - "+Actual_Result);
 		}
-		System.out.println("Title of he Web page"+Actual_Result);//Print the title of the web page
+		System.out.println("Title of he Web page -"+Actual_Result);//Print the title of the web page
 		String Source=driver.getPageSource();
-		System.out.println("Source Code of the webpage"+Source);//Print the Source code of web page
+		System.out.println("Source Code of the webpage -"+Source);//Print the Source code of web page
 		//Navigate method by using two different URL
 		driver.get("https://www.flipkart.com");
 		Thread.sleep(3000);
