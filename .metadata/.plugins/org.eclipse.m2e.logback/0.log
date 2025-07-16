@@ -1950,3 +1950,4 @@ org.eclipse.jdt.core.JavaModelException: <project root> [in Selenium] is not on 
 2025-07-14 09:17:42,039 [Worker-80: Launching Program_081] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
 2025-07-14 09:17:42,041 [Worker-80: Launching Program_081] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Surya\eclipse-workspace\Introduction\src\test\resources
 2025-07-16 06:52:21,600 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2025-07-16 07:22:02,964 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
