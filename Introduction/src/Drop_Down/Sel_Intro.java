@@ -16,6 +16,9 @@ public class Sel_Intro {
 		
 		driver.get("https://www.sanlam.com/");
 		driver.findElement(By.linkText("BUSINESS")).click();
+		
+		System.out.println("New Dropdown is passed");
+		System.out.println("Fail");
 
 	}
 
